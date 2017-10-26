@@ -1,12 +1,9 @@
 /* Add Lab5CSS code --------------------------------------------------------------------------------------------*/
 
-/* Holder for possible Planet background image
-
+/*
 body {
-	background-image: url("../images/gstripe.png");
+	background-image: url("../images/planetback.jpg");
 }
-
-*/
 
 
 /* Setup Dimensions of main Page centered on screen */
@@ -40,16 +37,39 @@ border-radius: 12px 12px 0px 0px;
 
 #main-info{
 
-	background-color: #70db70;
-
+	background-color: #000;
+  color: #70db70;
+  
 }  
 
-#main-info table{
+#main-info .tg{
  
+  border-collapse:collapse;border-spacing:0;border-color:#bbb;
+  margin-left: 40px;
 
- 
-}  
+}
 
+#main-info .tg td{
+
+font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;background-color:#E0FFEB;
+}
+
+#main-info .tg th {
+  
+font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#bbb;color:#493F3F;background-color:#9DE0AD;
+}
+
+
+#main-info .tg .tg-yw4l{
+
+  vertical-align:top
+}
+
+#main-info .tg .tg-fefd{
+
+color:#000000;vertical-align:top
+
+}
 
 
 
