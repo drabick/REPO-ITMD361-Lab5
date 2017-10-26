@@ -17,3 +17,57 @@ body {
 	box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1); 
 	border-radius: 12px 12px 0px 0px; 
 }
+
+/* Header section of main page add custom gradient from ColorZilla */
+
+#header {
+
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b4ddb4+0,83c783+17,52b152+33,008a00+67,005700+83,002400+100;Green+3D+%231 */
+background: #b4ddb4; /* Old browsers */
+background: -moz-linear-gradient(top, #b4ddb4 0%, #83c783 17%, #52b152 33%, #008a00 67%, #005700 83%, #002400 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4ddb4', endColorstr='#002400',GradientType=0 ); /* IE6-9 */
+
+position: relative;
+margin-top: 40px;
+height:30px;
+border-radius: 12px 12px 0px 0px; 
+}
+
+
+/*Main body Planet data styles */
+
+#main-info{
+
+	background-color: #70db70;
+
+}  
+
+#main-info table{
+ 
+
+ 
+}  
+
+
+
+
+/* Footer styling */
+
+#footer {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b4ddb4+0,83c783+17,52b152+33,008a00+67,005700+83,002400+100;Green+3D+%231 */
+  background: #b4ddb4; /* Old browsers */
+  background: -moz-linear-gradient(top, #b4ddb4 0%, #83c783 17%, #52b152 33%, #008a00 67%, #005700 83%, #002400 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4ddb4', endColorstr='#002400',GradientType=0 ); /* IE6-9 */
+  
+  margin: 0 auto;
+	background-color: #777;
+	height: 30px;
+  text-align: center;
+  border-radius: 0px 0px 12px 12px; 
+  box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1); 
+	clear: both;
+}
