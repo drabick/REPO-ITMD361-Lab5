@@ -1,6 +1,5 @@
 /* Add Lab5CSS code --------------------------------------------------------------------------------------------*/
 
-
 body {
   
 	background-image: url("../images/planetback3.jpg");
@@ -72,7 +71,7 @@ body {
 
 /* Table Styling */
 
-#main-info .tg{
+#main-info .pl{
  
   border-collapse:collapse;
   border-spacing:0;
@@ -81,7 +80,7 @@ body {
 
 }
 
-#main-info .tg td{
+#main-info .pl td{
 
   font-family:Arial, sans-serif;
   font-size:14px;
@@ -95,7 +94,7 @@ body {
   background-color:#E0FFEB;
 }
 
-#main-info .tg th {  
+#main-info .pl th {  
   font-family:Arial, sans-serif;
   font-size:14px;
   font-weight:normal;
@@ -109,17 +108,16 @@ body {
   background-color:#9DE0AD;
 }
 
-#main-info .tg .tg-yw4l{
+#main-info .pl .pl-colrow{
 
   vertical-align:top
 }
 
-#main-info .tg .tg-fefd{
+#main-info .pl .pl-head{
 
 color:#000000;vertical-align:top
 
 }
-
 
 #merc1 {
   margin-left: 20px;
