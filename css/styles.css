@@ -1,8 +1,13 @@
 /* Add Lab5CSS code --------------------------------------------------------------------------------------------*/
 
-/*
+
 body {
-	background-image: url("../images/planetback.jpg");
+  
+	background-image: url("../images/planetback3.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 15% 0%;
+  
 }
 
 /*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
@@ -33,7 +38,7 @@ body {
   
   position: relative;
   text-align: center;
-  margin-top: 40px;
+  margin-top: 100px;
   height:60px;
   border-radius: 12px 12px 0px 0px; 
 }
@@ -115,6 +120,28 @@ color:#000000;vertical-align:top
 
 }
 
+
+#merc1 {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#sat1 {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+#jup1 {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+#nep1 {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
 
 /*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
